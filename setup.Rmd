@@ -1,14 +1,3 @@
-<style>
-.title-slide .remark-slide-number {
-  display: none;
-}
-
-.title-slide {
-  background-image: url("images/title.png");
-  background-size: cover;
-}
-</style>
-
 ```{r setup, include=FALSE}
 library(knitr)
 library(fontawesome)
