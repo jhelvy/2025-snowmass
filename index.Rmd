@@ -51,7 +51,7 @@ class: inverse
 
 class: middle, center, inverse
 
-# What if the "free" flow of<br>capital, talent, and innovation<br>across boarders is no longer "free"?
+# What if the flow of<br>capital, talent, and innovation<br>across borders is no longer "free"?
 
 ---
 
@@ -73,7 +73,7 @@ class: middle, center, inverse
 
 ### **2020s Post-COVID Fragmentation**
 
-- Supply chain resilience and "Friend-shoring"
+- Supply chain _resilience_ becomes central
 - Industrial policy competition
 - Defense concerns ("Dual Use")
 
@@ -158,7 +158,7 @@ class: middle, center, inverse
 
 --
 
-## ...this stratgey hasn't entirely worked 😔<br>(2 years wasn't enough time)
+## ...strategy hasn't entirely worked 😔<br>(2 years wasn't enough time)
 
 ---
 
@@ -170,17 +170,18 @@ class: inverse, middle, center
 
 # Phase 1: Early Trade Disputes (2010-2015)
 
-- US a major solar manufacturer and polysilicon producer
-- 2012: Obama imposes 24-36% tariffs on Chinese solar panels
-- China retaliates with tariffs on US polysilicon exports
-- Chinese manufacturers continue scaling, US polysilicon industry contracts.
+- US made panels and polysilicon 
+- 2012: Obama puts tariffs on Chinese panels
+- China retaliates: tariffs on US polysilicon
+
+-> Chinese manufacturers scale, US loses polysilicon industry
 
 --
 
 # Phase 2: Circumvention Era (2015-2020)
 
-- China becomes dominant manufacturer, 80%+ of solar supply chain
-- Chinese companies use "transhipment" through SE ASia to avoid US tariffs
+- Chines manufacturers dominate, 80%+ of solar supply chain
+- Use "transhipment" through SE Asia to avoid US tariffs
 
 --
 
@@ -289,6 +290,19 @@ background-color: #fff
 
 ---
 
+class: middle, center
+background-color: #FFFFFF
+
+### **Total Savings from globalization: $67 B ($50 - $84 B)**
+
+<center>
+<img src="images/savings-historical.png" width=100%>
+</center>
+
+.left[Helveston, J.P., He, G., & Davidson, M.R. (2022) “Quantifying the cost savings of global solar photovoltaic supply chains” _Nature_. 612 (7938), pg. 83-87. DOI: [10.1038/s41586-022-05316-6](https://doi.org/10.1038/s41586-022-05316-6)]
+
+---
+
 class: center, middle
 background-color: #FFFFFF
 
@@ -312,19 +326,6 @@ background-color: #FFFFFF
 - 54% higher in China ($387 versus $250 per kW)
 - 83% in higher Germany ($652 versus $357 per kW)
 - 107% higher in the U.S. ($877 versus $424 per kW)
-
----
-
-class: middle, center
-background-color: #FFFFFF
-
-## **Total Savings: $67 billion ($50 - $84 billion)**
-
-<center>
-<img src="images/savings-historical.png" width=100%>
-</center>
-
-.left[Helveston, J.P., He, G., & Davidson, M.R. (2022) “Quantifying the cost savings of global solar photovoltaic supply chains” _Nature_. 612 (7938), pg. 83-87. DOI: [10.1038/s41586-022-05316-6](https://doi.org/10.1038/s41586-022-05316-6)]
 
 ---
 
