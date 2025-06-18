@@ -1,5 +1,5 @@
 ---
-title: "An End to the Free Flow of<br>Capital, Talent, and Innovation?"
+title: "Clean Tech and Trade in an<br>Era of Nationalism"
 author: "John Paul Helveston"
 date: Snowmass 2025
 institute: "The George Washington University | Dept. of Engineering Management and Systems Engineering"
@@ -51,54 +51,33 @@ class: inverse
 
 class: middle, center, inverse
 
-# What if the free flow of<br>capital, talent, and innovation across stops?
+# What if the "free" flow of<br>capital, talent, and innovation<br>across boarders is no longer "free"?
 
 ---
 
-# .center[A Changing Reality]
+# .center[A Changing Political Reality]
 
-<br>
+### **2000s Globalization**
 
---
-
-.leftcol[
-
-### .center[**2000s Globalization**]
-
-Free flow of capital, talent, innovation
-
+- Free flow of capital, talent, innovation
 - Technology spillovers across borders
-- Global learning curves
-- Efficiency through comparative advantage
-
-]
 
 --
 
-.rightcol[
+### **2010s Push Back Against Globalization**
 
-### .center[**2020s National Fragmentation**]
+- Economic security concerns (manufacturing job loss)
+- Competition with China 
 
-Economic nationalism collides w/clean tech
+--
 
-- Economic security concerns
-- Defense concerns ("Dual Use")
+### **2020s Post-COVID Fragmentation**
+
+- Supply chain resilience and "Friend-shoring"
 - Industrial policy competition
-- "Friend-shoring" supply chains
+- Defense concerns ("Dual Use")
 
 ]
-
----
-
-class: middle
-
-# .center[The political reality of how we got here]
-
-<br><br>
-
-## - Manufacturing job loss
-## - China's rise
-## - War (live and threats)
 
 ---
 
@@ -115,7 +94,7 @@ https://en.wikipedia.org/wiki/Manufacturing_in_the_United_States
 
 ---
 
-## .center[Rise Chinese dominance in clean tech _supply chains_]
+## .center[Rise Chinese dominance in clean tech supply chains]
 
 .leftcol[
 
@@ -125,7 +104,7 @@ https://en.wikipedia.org/wiki/Manufacturing_in_the_United_States
 <img src="images/battery-supply-chain.png" width=100%>
 </center>
 
-.font60[Cheng, Anthony L., et al. "Electric vehicle battery chemistry affects supply chain disruption vulnerabilities." Nature Communications 15.1 (2024): 2143.]
+.font80[Cheng, Anthony L., et al. "Electric vehicle battery chemistry affects supply chain disruption vulnerabilities." Nature Communications 15.1 (2024): 2143.]
 
 ]
 
@@ -137,34 +116,7 @@ https://en.wikipedia.org/wiki/Manufacturing_in_the_United_States
 <img src="images/solar-supply-chain.png" width=100%>
 </center>
 
-.font60[IEA Special report 2022: Solar PV Global Supply Chains, https://www.iea.org/reports/solar-pv-global-supply-chains]
-
-]
-
----
-
-### .center[War in Ukraine]
-
-.leftcol[
-
-- Drones now a clear tactical advantage
-- Reliance on Chinese supply now a defense issue
-
-<center>
-<img src="images/drone.png" width=100%>
-</center>
-
-.font80[https://www.bbc.com/news/articles/ckgn47e5qyno]
-
-]
-
-.rightcol[
-
-<center>
-<img src="images/china_drone_share.png" width=100%>
-</center>
-
-.font80[https://arc-group.com/china-thriving-drone-industry/]
+.font80[IEA Special report 2022: Solar PV Global Supply Chains, https://www.iea.org/reports/solar-pv-global-supply-chains]
 
 ]
 
@@ -182,98 +134,85 @@ class: middle, center, inverse
 
 ---
 
-class: inverse, middle, center
-
-# Solar PV
-
----
-
-# Phase 1: Early Trade War (2010-2015)
-
-### US a major solar manufacturer and polysilicon producer
-
-- 2012: Obama imposes 24-36% anti-dumping tariffs on Chinese solar panels, citing unfair government subsidies.
-- China retaliates with tariffs on US polysilicon exports.
-- Chinese manufacturers continue scaling, US polysilicon industry contracts.
-
----
-
-# Phase 2: Circumvention Era (2015-2020)
-
-- China becomes dominant manufacturer, 80%+ of solar supply chain
-- Chinese companies increasingly used "transhipment" through Malaysia, Thailand, and Vietnam to avoid US tariffs
-- US looses significant market share.
-- Tariffs remain, but effectiveness diminished due to circumvention
-
----
-
-class: center, middle
-
-## Shift from China to SE Asia (Transhipment)
-
-<center>
-<img src="images/solar-imports.png" width=80%>
-</center>
-
-.font80[Source: https://www.reuters.com/graphics/USA-CHINA/SOLAR-HISTORY/gdpzkdeqlvw/]
-
----
-
-## .center[Shift from China to SE Asia (Transhipment)]
-
-.leftcol40[
-
-### Chinese firms still leading producers, but manufacturing shifts to SE Asia to skirt US tariffs
-
-<br><br><br><br>
-
-.font80[Source: https://www.reuters.com/graphics/USA-CHINA/SOLAR-HISTORY/gdpzkdeqlvw/]
-
-]
-
-.rightcol60[
-
-<center>
-<img src="images/solar-seasia.png" width=90%>
-</center>
-
-]
-
----
-
-## .center[Shift from China to SE Asia (Transhipment)]
-
-.leftcol40[
-
-### Solar prices in US are much higher than in China
-
-<br><br><br><br><br><br>
-
-.font80[Source: https://www.reuters.com/graphics/USA-CHINA/SOLAR-HISTORY/gdpzkdeqlvw/]
-
-]
-
-.rightcol60[
-
-<center>
-<img src="images/solar-prices.png" width=100%>
-</center>
-
-]
-
----
-
 # .center[**Bipartisan goal**: The US needs to counter China's lead in clean energy tech]
 
 <br>
 
 --
 
-## **Keep Chinese clean tech out of US market**: Steep tariffs on imported PV modules
+## **Keep Chinese clean tech out of US market**: Steep tariffs on imported Chinese EVs, batteries, PV modules
 
 --
 
-## **Offer tax credits for domestic solar manufacturing**: IRA credits 30%...
+## **Keep Chinese firms out of US clean tech supply chains**: IRA restrictions on EV subsidy elligiblity, stricter Foreign Entities of Concern (FEOC) rules
+
+---
+
+# .center[Countering China by Investing in Manufacturing]
+
+<br>
+
+## **IRA Strategy**: Investing in *manufacturing* will lead to enduring support for clean tech through local jobs & economic benefits
+
+<br>
+
+--
+
+## ...this stratgey hasn't entirely worked 😔<br>(2 years wasn't enough time)
+
+---
+
+class: inverse, middle, center
+
+# Solar PV
+
+---
+
+# Phase 1: Early Trade Disputes (2010-2015)
+
+- US a major solar manufacturer and polysilicon producer
+- 2012: Obama imposes 24-36% tariffs on Chinese solar panels
+- China retaliates with tariffs on US polysilicon exports
+- Chinese manufacturers continue scaling, US polysilicon industry contracts.
+
+--
+
+# Phase 2: Circumvention Era (2015-2020)
+
+- China becomes dominant manufacturer, 80%+ of solar supply chain
+- Chinese companies use "transhipment" through SE ASia to avoid US tariffs
+
+--
+
+# Phase 3: Bidenomics? / IRA (2020-Now)
+
+---
+
+class: center, middle
+
+### Shift from China to SE Asia (Transhipment)
+
+<center>
+<img src="images/solar-imports.png" width=84%>
+</center>
+
+.font80[Source: https://www.reuters.com/graphics/USA-CHINA/SOLAR-HISTORY/gdpzkdeqlvw/]
+
+---
+
+# We need diversification
+
+<br>
+
+## China has enough solar PV capacity to meet annual global demand through 2032.
+
+Source: Wood Mackenzie, https://www.reuters.com/world/china/china-will-dominate-solar-supply-chain-years-wood-mackenzie-2023-11-07/
+
+--
+
+<br>
+
+## But do we need _onshoring_?
 
 ---
 
@@ -326,16 +265,6 @@ Sources:
 
 ---
 
-class: middle, center, inverse
-
-## Remember?
-
-## Nationalism > Globalization
-
-(Security > Efficiency)
-
----
-
 background-color: #fff
 
 ## Solar unlikely to produce desired # of manufacturing jobs
@@ -360,44 +289,365 @@ background-color: #fff
 
 ---
 
-# We need diversification
+class: center, middle
+background-color: #FFFFFF
 
-## China has enough solar PV capacity to meet annual global demand through 2032.
+## U.S.: 26%; China: 33%; Germany: 20%
 
-Source: Wood Mackenzie, https://www.reuters.com/world/china/china-will-dominate-solar-supply-chain-years-wood-mackenzie-2023-11-07/
+<center>
+<img src="images/cost_historical_global_plot.png" width=100%>
+</center>
+
+---
+
+class: middle
+background-color: #FFFFFF
+
+<center>
+<img src="images/cost-historical.png" width=100%>
+</center>
+
+**Higher prices in 2020**:
+
+- 54% higher in China ($387 versus $250 per kW)
+- 83% in higher Germany ($652 versus $357 per kW)
+- 107% higher in the U.S. ($877 versus $424 per kW)
+
+---
+
+class: middle, center
+background-color: #FFFFFF
+
+## **Total Savings: $67 billion ($50 - $84 billion)**
+
+<center>
+<img src="images/savings-historical.png" width=100%>
+</center>
+
+.left[Helveston, J.P., He, G., & Davidson, M.R. (2022) “Quantifying the cost savings of global solar photovoltaic supply chains” _Nature_. 612 (7938), pg. 83-87. DOI: [10.1038/s41586-022-05316-6](https://doi.org/10.1038/s41586-022-05316-6)]
+
+---
+
+class: inverse, middle, center
+
+# Electric Vehicles
+
+---
+
+background-color: #fff
+
+<center>
+<img src="images/annual-sales.png" width=78%>
+</center>
+
+---
+
+background-color: #fff
+
+## .center[EV sales in US reaching ~10% of sales]
+
+<center>
+<img src="images/ev-sales-us.png" width=75%>
+</center>
+
+.font80[Source: Argonne National Lab, https://www.anl.gov/ev-facts/model-sales]
+
+---
+
+class: center
+
+.leftcol70[
+
+<center>
+<img src="images/ev-price-slope-edit.png" width=100%>
+</center>
+
+.font70[Source: https://www.iea.org/reports/global-ev-outlook-2024/executive-summary]
+
+]
+
+.rightcol30[
+
+### The EV sector has an affordability problem<br>(except in China)
+
+]
+
+---
+
+class: center
+
+### China offers more affordable BEVs across all range categories
+
+<center>
+<img src="images/range-price-us-china-class-2024-us.png" width=100%>
+</center>
+
+Data scraped from autocango.com (China) and carsheet.io (USA)
+
+---
+
+class: center
+
+### China offers more affordable BEVs across all range categories
+
+<center>
+<img src="images/range-price-us-china-class-2024-both.png" width=100%>
+</center>
+
+Data scraped from autocango.com (China) and carsheet.io (USA)
+
+---
+
+class: center
+
+### China offers more affordable BEVs across all range categories
+
+<center>
+<img src="images/range-price-us-china-class-2024-labels-edit.png" width=100%>
+</center>
+
+Data scraped from autocango.com (China) and carsheet.io (USA)
+
+---
+
+background-image: url("images/top-four-1.png")
+background-size: cover
+
+---
+
+background-image: url("images/top-four-2.png")
+background-size: cover
+
+---
+
+# Strategic Implications
+
+<br>
+
+### **Global Market Share Erosion**: U.S. autos will not be competitive abroad without affordable EVs
+
+<br>
+
+### **Trade Imbalance**: U.S. could go from net vehicle _exporter_ to _importer_ 
+
+### (U.S. exported $15B in vehicles and parts to Canada in 2024 🇨🇦)
+
+<br>
+
+### **Exployment Impacts**:  U.S. auto employs 10.1 million Americans, $730B in annual paychecks
+
+---
+
+## .center[**Opportunities**]
+
+.leftcol[
+
+## Chinese FDI into U.S.
+
+### **Gotion batteries**: Multi-billion dollar investments in Illinois and Michigan
+
+### **Challenge**: Uncertainty around Foreign Entities of Concern (FEOC) status
+
+]
+
+--
+
+.rightcol[
+
+## Technology Licensing Agreements
+
+### **Ford-CATL**: Licensing battery technology in a Michigan plant
+
+### **Challenge**: CATL was recently added to DOD's list of “Chinese military companies”
+
+]
+
+---
+
+class: center, middle, inverse
+
+# Leveraging vehicle listings data to build a dashboard of US EV market development
+
+---
+
+class: middle
+
+.leftcol[
+
+## .center[EVs depreciate faster than gas cars]
+
+.font80[Roberson, Laura A., Pantha, S., & Helveston, J.P. (2024) “Battery-Powered Bargains? Assessing Electric Vehicle Resale Value in the United States” _Environmental Research Letters_ DOI: [10.1088/1748-9326/ad3fce](https://doi.org/10.1088/1748-9326/ad3fce)]
+
+]
+
+.rightcol[
+
+## .center[EV owners drive their cars less than gas car owners]
+
+.font80[Zhao, L., Ottinger, E., Yip, A., & Helveston, J.P. (2023) “Quantifying electric vehicle mileage in the United States” _Joule._ 7, 1–15. DOI: [10.1016/j.joule.2023.09.015](https://doi.org/10.1016/j.joule.2023.09.015)]
+
+]
+
+---
+
+class: center
+background-color: #fff
+
+## BEVs Concentrated in High-Price Segments in US
+
+**Only 1.2% of new and 3.5% of used listings under $40,000 were BEVs in 2024**
+
+<center>
+<img src="images/bev_percent_listings_edit.png" width=100%>
+</center>
+
+.font80[Data pulled from ~80k dealerships, 2016 to 2024. Source: marketcheck.com]
+
+---
+
+class: center
+background-color: #fff
+
+<center>
+<img src="images/pev-access-time-map.png" width=90%>
+</center>
+
+
+---
+
+class: middle, center
+
+# Key Takeaways
+
+---
+
+# Three Main Points
+
+<br>
+
+### **1. Globalization delivered massive cost savings**
+
+$67 billion for solar PV alone (2008-2020)
 
 --
 
 <br>
 
-## But do we need _onshoring_?
+### **2. Fragmentation will slow progress and increase costs**
+
+--
+
+<br>
+
+### **3. Models need updating to reflect new trade realities**
+
+Political economy cannot be ignored
 
 ---
 
-#### .center[Estimated $67 B in savings from global supply chains]
+class: inverse
+background-image: url("images/blue.jpg")
+background-size: cover
+
+<br>
+
+# Thanks!
+
+<br>
+
+### <span class="white-text">https://jhelvy.github.io/2025-snowmass</span>
+
+<style>
+.white-text a {
+  color: white !important;
+}
+</style>
+
+.footer-large[.white[.right[
+
+@jhelvy.bsky.social `r fa(name = "bluesky", fill = "white")`<br>
+@jhelvy `r fa(name = "github", fill = "white")`<br>
+jhelvy.com `r fa(name = "link", fill = "white")`<br>
+jph@gwu.edu `r fa(name = "paper-plane", fill = "white")`
+
+]]]
+
+---
+
+class: inverse, middle, center
+
+# Extra Slides
+
+---
+
+### .center[War in Ukraine]
+
+.leftcol[
+
+- Drones now a clear tactical advantage
+- Reliance on Chinese supply now a defense issue
 
 <center>
-<img src="https://github.com/jhelvy/solar-learning-2021/blob/main/figs/png/fig3_savings_historical_annual.png?raw=true" width=100%>
+<img src="images/drone.png" width=100%>
 </center>
 
-Helveston, J.P., He, G., & Davidson, M.R. (2022) “Quantifying the cost savings of global solar photovoltaic supply chains” _Nature_. 612 (7938), pg. 83-87. DOI: [10.1038/s41586-022-05316-6](https://doi.org/10.1038/s41586-022-05316-6)
+.font80[https://www.bbc.com/news/articles/ckgn47e5qyno]
 
----
+]
 
-
-
-
-
-
----
-
-background-color: #FFFFFF
-
-## .center[Learning curve model]
+.rightcol[
 
 <center>
-<img src="images/learning-curve.png" width=65%>
+<img src="images/china_drone_share.png" width=100%>
 </center>
+
+.font80[https://arc-group.com/china-thriving-drone-industry/]
+
+]
+
+---
+
+## .center[Shift from China to SE Asia (Transhipment)]
+
+.leftcol40[
+
+### Chinese firms still leading producers, but manufacturing shifts to SE Asia to skirt US tariffs
+
+<br><br><br><br>
+
+.font80[Source: https://www.reuters.com/graphics/USA-CHINA/SOLAR-HISTORY/gdpzkdeqlvw/]
+
+]
+
+.rightcol60[
+
+<center>
+<img src="images/solar-seasia.png" width=90%>
+</center>
+
+]
+
+---
+
+## .center[Shift from China to SE Asia (Transhipment)]
+
+.leftcol40[
+
+### Solar prices in US are much higher than in China
+
+<br><br><br><br><br><br>
+
+.font80[Source: https://www.reuters.com/graphics/USA-CHINA/SOLAR-HISTORY/gdpzkdeqlvw/]
+
+]
+
+.rightcol60[
+
+<center>
+<img src="images/solar-prices.png" width=100%>
+</center>
+
+]
 
 ---
 
@@ -458,51 +708,6 @@ $$\ln Y = \ln a + b \ln X$$
 
 ---
 
-class: middle
-
-## .center[Data Sources]
-
-Country | Data | Source
---------|-----|----------------
-Global | Installed PV capacity and prices | International Renewable Energy Agency (IRENA)
-U.S. | Installed capacity | Solar Energy Industries Association (SEIA)
-U.S. | Module prices  | Lawrence Berkeley National Laboratory (LBNL) & National Renewable Energy Laboratory (NREL)
-China | Installed capacity & module prices | Energy Research Institute (ERI) & China Photovoltaic Industry Association
-Germany | Installed capacity | IRENA
-Germany | Module prices | Fraunhofer ISE50
-
-All prices are in $2020 USD<br>(inflation adjustments from IMF, exchange rates from Federal Reserve Bank)
-
----
-
-## Model results
-
-|                                     | United States        | China                | Germany              |
-| ----------------------------------- | -------------------- | -------------------- | -------------------- |
-|                                     | Est. (Std. Err.)     | Est. (Std. Err.)     | Est. (Std. Err.)     |
-| (Intercept)                         | 15 (1.04)\*\*\*      | 18 (1.58)\*\*\*      | 12 (0.96)\*\*\*      |
-| log(cum\_capacity\_kw)              | \-0.44 (0.045)\*\*\* | \-0.57 (0.070)\*\*\* | \-0.33 (0.042)\*\*\* |
-| log(price\_si)                      | 0.15 (0.058)\*       | 0.23 (0.079)         | 0.21 (0.054)         |
-
-## Learning rates: $L_i = 1 - 2^{\beta_i}$
-
-- U.S.: 26%
-- China: 33%
-- Germany: 20%
-
----
-
-class: center, middle
-background-color: #FFFFFF
-
-## U.S.: 26%; China: 33%; Germany: 20%
-
-<center>
-<img src="images/cost_historical_global_plot.png" width=100%>
-</center>
-
----
-
 ## .center["National Markets" Counterfactual Scenario]
 
 **Assumption**: learning-related price decreases in country _i_ in year _t_ are derived from incrementally more nationally-installed PV capacity
@@ -547,217 +752,3 @@ $$(q_{it} - q_{it-1})$$
 $\lambda_t$ -> 1 over 10-year period
 
 ]
-
----
-
-class: middle
-background-color: #FFFFFF
-
-<center>
-<img src="images/cost-historical.png" width=100%>
-</center>
-
-**Higher prices in 2020**:
-
-- 54% higher in China ($387 versus $250 per kW)
-- 83% in higher Germany ($652 versus $357 per kW)
-- 107% higher in the U.S. ($877 versus $424 per kW)
-
----
-
-class: middle, center
-background-color: #FFFFFF
-
-## **Total Savings: $67 billion ($50 - $84 billion)**
-
-<center>
-<img src="images/savings-historical.png" width=100%>
-</center>
-
-
-
-
----
-
-
-# .center[Same tensions in every low-carbon technology]
-
-## .center[China is manufacturing leader in almost every sector]
-
-.font120[
-
-Technology | Scale
-----|------
-Solar Panels | From 1% to 70% (2001 - 2019)
-Wind Turbines | 1/3 of global supply (2020)
-Electric Vehicles | 51% of global sales (2021)
-Lithium-ion Batteries | 70% of global production (76% by 2025)
-Nuclear Reactors | From 45 to 88 plants by 2030
-
-]
-
----
-
-class: middle, center
-
-# So what do we do about this tension?
-
----
-
-# Climate Clubs: A Potential Solution?
-
-<br>
-
-### **The Concept**: Coalitions of willing countries
-
-- Coordinated climate action
-- Preferential trade treatment for members
-- Burden sharing for global public goods
-
---
-
-<br>
-
-### **Trade Dimension**:
-
-- Lower tariffs within the club
-- Common standards and regulations
-- Technology sharing agreements
-
---
-
-<br>
-
-### **The Challenge**: Balancing cooperation with competition
-
----
-
-# The Trilemma
-
-<br>
-
-.leftcol[
-
-### **Three Goals**:
-
-1. **Climate Action**: Speed and scale
-2. **Economic Competitiveness**: Domestic benefits
-3. **Technology Sovereignty**: Strategic autonomy
-
-]
-
---
-
-.rightcol[
-
-### **Reality**:
-
-Cannot optimize all three simultaneously
-
-### **Policy Question**:
-
-How to sequence and prioritize?
-
-]
-
----
-
-# Research and Modeling Implications
-
-<br>
-
-### **Current Models Assume**:
-
-- Frictionless technology transfer
-- Global learning curves
-- Minimal trade barriers
-
---
-
-<br>
-
-### **New Reality Requires**:
-
-- Political economy constraints
-- Fragmented innovation systems
-- Trade policy feedbacks
-
---
-
-<br>
-
-### **Research Priorities**:
-
-- Extending analysis to other clean technologies
-- Designing effective climate clubs
-- Updating Integrated Assessment Models
-
----
-
-class: middle, center
-
-# Key Takeaways
-
----
-
-# Three Main Points
-
-<br>
-
-### **1. Globalization delivered massive cost savings**
-
-$67 billion for solar PV alone (2008-2020)
-
---
-
-<br>
-
-### **2. Fragmentation will slow progress and increase costs**
-
-20-25% higher prices by 2030 under national scenarios
-
---
-
-<br>
-
-### **3. Models need updating to reflect new trade realities**
-
-Political economy cannot be ignored
-
----
-
-class: middle, center, inverse
-
-# The question isn't whether countries will pursue industrial policy (they already are)
-
-# The question is whether we can design these policies to preserve the global cooperation that made clean technology affordable in the first place.
-
----
-
-class: inverse
-background-image: url("images/blue.jpg")
-background-size: cover
-
-<br>
-
-# Thanks!
-
-<br>
-
-### <span class="white-text">Questions?</span>
-
-<style>
-.white-text a {
-  color: white !important;
-}
-</style>
-
-.footer-large[.white[.right[
-
-@jhelvy.bsky.social `r fa(name = "bluesky", fill = "white")`<br>
-@jhelvy `r fa(name = "github", fill = "white")`<br>
-jhelvy.com `r fa(name = "link", fill = "white")`<br>
-jph@gwu.edu `r fa(name = "paper-plane", fill = "white")`
-
-]]]
-
