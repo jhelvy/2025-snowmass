@@ -51,33 +51,13 @@ class: inverse
 
 class: middle, center, inverse
 
-# What if the flow of<br>capital, talent, and innovation<br>across borders is no longer "free"?
+# New Political Reality:
 
----
+<br>
 
-# .center[A Changing Political Reality]
+# Nationalism > Globalization
 
-### **2000s Globalization**
-
-- Free flow of capital, talent, innovation
-- Technology spillovers across borders
-
---
-
-### **2010s Push Back Against Globalization**
-
-- Economic security concerns (manufacturing job loss)
-- Competition with China 
-
---
-
-### **2020s Post-COVID Fragmentation**
-
-- Supply chain _resilience_ becomes central
-- Industrial policy competition
-- Defense concerns ("Dual Use")
-
-]
+## (Security > Efficiency)
 
 ---
 
@@ -122,18 +102,6 @@ https://en.wikipedia.org/wiki/Manufacturing_in_the_United_States
 
 ---
 
-class: middle, center, inverse
-
-# New Political Reality:
-
-<br>
-
-# Nationalism > Globalization
-
-## (Security > Efficiency)
-
----
-
 # .center[**Bipartisan goal**: The US needs to counter China's lead in clean energy tech]
 
 <br>
@@ -165,27 +133,6 @@ class: middle, center, inverse
 class: inverse, middle, center
 
 # Solar PV
-
----
-
-# Phase 1: Early Trade Disputes (2010-2015)
-
-- US made panels and polysilicon 
-- 2012: Obama puts tariffs on Chinese panels
-- China retaliates: tariffs on US polysilicon
-
--> Chinese manufacturers scale, US loses polysilicon industry
-
---
-
-# Phase 2: Circumvention Era (2015-2020)
-
-- Chines manufacturers dominate, 80%+ of solar supply chain
-- Use "transhipment" through SE Asia to avoid US tariffs
-
---
-
-# Phase 3: Bidenomics? / IRA (2020-Now)
 
 ---
 
@@ -290,30 +237,6 @@ background-color: #fff
 
 ---
 
-class: middle, center
-background-color: #FFFFFF
-
-### **Total Savings from globalization: $67 B ($50 - $84 B)**
-
-<center>
-<img src="images/savings-historical.png" width=100%>
-</center>
-
-.left[Helveston, J.P., He, G., & Davidson, M.R. (2022) “Quantifying the cost savings of global solar photovoltaic supply chains” _Nature_. 612 (7938), pg. 83-87. DOI: [10.1038/s41586-022-05316-6](https://doi.org/10.1038/s41586-022-05316-6)]
-
----
-
-class: center, middle
-background-color: #FFFFFF
-
-## U.S.: 26%; China: 33%; Germany: 20%
-
-<center>
-<img src="images/cost_historical_global_plot.png" width=100%>
-</center>
-
----
-
 class: middle
 background-color: #FFFFFF
 
@@ -326,6 +249,19 @@ background-color: #FFFFFF
 - 54% higher in China ($387 versus $250 per kW)
 - 83% in higher Germany ($652 versus $357 per kW)
 - 107% higher in the U.S. ($877 versus $424 per kW)
+
+---
+
+class: middle, center
+background-color: #FFFFFF
+
+### **Total savings from global supply chains: $67 B ($50 - $84 B)**
+
+<center>
+<img src="images/savings-historical.png" width=100%>
+</center>
+
+.left[Helveston, J.P., He, G., & Davidson, M.R. (2022) “Quantifying the cost savings of global solar photovoltaic supply chains” _Nature_. 612 (7938), pg. 83-87. DOI: [10.1038/s41586-022-05316-6](https://doi.org/10.1038/s41586-022-05316-6)]
 
 ---
 
@@ -421,24 +357,6 @@ background-size: cover
 
 ---
 
-# Strategic Implications
-
-<br>
-
-### **Global Market Share Erosion**: U.S. autos will not be competitive abroad without affordable EVs
-
-<br>
-
-### **Trade Imbalance**: U.S. could go from net vehicle _exporter_ to _importer_ 
-
-### (U.S. exported $15B in vehicles and parts to Canada in 2024 🇨🇦)
-
-<br>
-
-### **Exployment Impacts**:  U.S. auto employs 10.1 million Americans, $730B in annual paychecks
-
----
-
 ## .center[**Opportunities**]
 
 .leftcol[
@@ -467,27 +385,40 @@ background-size: cover
 
 class: center, middle, inverse
 
-# Leveraging vehicle listings data to build a dashboard of US EV market development
+# Using vehicle listings to<br>quantify EV market development
 
 ---
 
-class: middle
+class: center, middle
 
-.leftcol[
+<center>
+<img src="images/table_listings.png" width=80%>
+</center>
 
-## .center[EVs depreciate faster than gas cars]
+---
+
+class: center
+background-color: #fff
+
+## BEVs are driven significantly less than other powertrains
+
+<center>
+<img src="images/mileage-all.png" width=100%>
+</center>
 
 .font80[Roberson, Laura A., Pantha, S., & Helveston, J.P. (2024) “Battery-Powered Bargains? Assessing Electric Vehicle Resale Value in the United States” _Environmental Research Letters_ DOI: [10.1088/1748-9326/ad3fce](https://doi.org/10.1088/1748-9326/ad3fce)]
 
-]
+---
 
-.rightcol[
+## BEVs & PHEVs are depreciating worse than CVs and HEVs
 
-## .center[EV owners drive their cars less than gas car owners]
+### (Except Tesla)
+
+<center>
+<img src="images/depreciation.png" width=100%>
+</center>
 
 .font80[Zhao, L., Ottinger, E., Yip, A., & Helveston, J.P. (2023) “Quantifying electric vehicle mileage in the United States” _Joule._ 7, 1–15. DOI: [10.1016/j.joule.2023.09.015](https://doi.org/10.1016/j.joule.2023.09.015)]
-
-]
 
 ---
 
@@ -502,47 +433,10 @@ background-color: #fff
 <img src="images/bev_percent_listings_edit.png" width=100%>
 </center>
 
-.font80[Data pulled from ~80k dealerships, 2016 to 2024. Source: marketcheck.com]
-
 ---
 
-class: center
-background-color: #fff
-
-<center>
-<img src="images/pev-access-time-map.png" width=90%>
-</center>
-
-
----
-
-class: middle, center
-
-# Key Takeaways
-
----
-
-# Three Main Points
-
-<br>
-
-### **1. Globalization delivered massive cost savings**
-
-$67 billion for solar PV alone (2008-2020)
-
---
-
-<br>
-
-### **2. Fragmentation will slow progress and increase costs**
-
---
-
-<br>
-
-### **3. Models need updating to reflect new trade realities**
-
-Political economy cannot be ignored
+background-image: url("images/map.png")
+background-size: cover
 
 ---
 
@@ -556,7 +450,7 @@ background-size: cover
 
 <br>
 
-### <span class="white-text">https://jhelvy.github.io/2025-snowmass</span>
+### <span class="white-text">https://jhelvy.com/slides</span>
 
 <style>
 .white-text a {
@@ -578,6 +472,32 @@ jph@gwu.edu `r fa(name = "paper-plane", fill = "white")`
 class: inverse, middle, center
 
 # Extra Slides
+
+---
+
+# .center[A Changing Political Reality]
+
+### **2000s Globalization**
+
+- Free flow of capital, talent, innovation
+- Technology spillovers across borders
+
+--
+
+### **2010s Push Back Against Globalization**
+
+- Economic security concerns (manufacturing job loss)
+- Competition with China 
+
+--
+
+### **2020s Post-COVID Fragmentation**
+
+- Supply chain _resilience_ becomes central
+- Industrial policy competition
+- Defense concerns ("Dual Use")
+
+]
 
 ---
 
@@ -706,6 +626,17 @@ $$\ln Y = \ln a + b \ln X$$
 ## Learning rate:
 
 ## $$L_i = 1 - 2^{\beta_i}$$
+
+---
+
+class: center, middle
+background-color: #FFFFFF
+
+## U.S.: 26%; China: 33%; Germany: 20%
+
+<center>
+<img src="images/cost_historical_global_plot.png" width=100%>
+</center>
 
 ---
 
